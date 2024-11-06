@@ -5,6 +5,12 @@ This is a small weekend homage to the classic c64 shoot-em-up "Delta".
 
  * [Read more](http://codeincomplete.com/posts/2014/5/3/javascript_delta/)
 
+
+Try Delta Game
+=================
+ * [Try](http://delta-killer2b.rf.gd/)   ![image](https://github.com/user-attachments/assets/d6216730-c9ee-463d-bc8d-4341a0fdc227)
+
+
 TODO
 ====
 
